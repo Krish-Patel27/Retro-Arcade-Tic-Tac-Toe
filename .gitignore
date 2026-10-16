@@ -1,0 +1,13 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Assignment PDFs & Scratch lecture files
+*.pdf
+*lecture*.py
+*lecture*.ipynb
+
+# Environment / local settings
+.venv/
+env/
+.env
